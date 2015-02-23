@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaygunLogging", "RaygunLogging\RaygunLogging.csproj", "{911B300C-3770-4B76-8485-AE8D558FFCDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{838EC3DA-888B-48EC-9866-8A88F972F717}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logging", "Logging\Logging.csproj", "{A480FD9A-6546-4B3A-AAC2-8BD2DF094B29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{911B300C-3770-4B76-8485-AE8D558FFCDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{911B300C-3770-4B76-8485-AE8D558FFCDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{911B300C-3770-4B76-8485-AE8D558FFCDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{911B300C-3770-4B76-8485-AE8D558FFCDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{838EC3DA-888B-48EC-9866-8A88F972F717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{838EC3DA-888B-48EC-9866-8A88F972F717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{838EC3DA-888B-48EC-9866-8A88F972F717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{838EC3DA-888B-48EC-9866-8A88F972F717}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A480FD9A-6546-4B3A-AAC2-8BD2DF094B29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A480FD9A-6546-4B3A-AAC2-8BD2DF094B29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A480FD9A-6546-4B3A-AAC2-8BD2DF094B29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A480FD9A-6546-4B3A-AAC2-8BD2DF094B29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

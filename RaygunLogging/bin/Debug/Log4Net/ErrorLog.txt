@@ -1,0 +1,70 @@
+2015-02-19 15:21:16,808 [1] DEBUG RaygunLogging.Program Log4Net Sample debug message
+2015-02-19 15:21:16,818 [1] INFO  RaygunLogging.Program Log4Net Sample informational message
+2015-02-19 15:21:16,820 [1] WARN  RaygunLogging.Program Log4Net Sample warning message
+2015-02-19 15:21:16,822 [1] ERROR RaygunLogging.Program Log4Net Sample error message
+2015-02-19 15:21:16,824 [1] FATAL RaygunLogging.Program Log4Net Sample fatal error message
+2015-02-19 15:21:16,897 [1] DEBUG RaygunLogging.Repository.Repository`1[[RaygunLogging.Objects.Person, RaygunLogging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Debug: Adding items in repo
+2015-02-19 15:21:16,901 [1] ERROR RaygunLogging.Program System.InvalidCastException: Unable to cast object of type 'RaygunLogging.Objects.Employee' to type 'RaygunLogging.Objects.Person'.
+   at RaygunLogging.Program.Main(String[] args) in c:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\RaygunLogging\RaygunLogging\Program.cs:line 83
+2015-02-19 15:22:05,279 [1] DEBUG RaygunLogging.Program Log4Net Sample debug message
+2015-02-19 15:22:05,287 [1] INFO  RaygunLogging.Program Log4Net Sample informational message
+2015-02-19 15:22:05,289 [1] WARN  RaygunLogging.Program Log4Net Sample warning message
+2015-02-19 15:22:05,291 [1] ERROR RaygunLogging.Program Log4Net Sample error message
+2015-02-19 15:22:05,293 [1] FATAL RaygunLogging.Program Log4Net Sample fatal error message
+2015-02-19 15:22:05,357 [1] DEBUG RaygunLogging.Repository.Repository`1[[RaygunLogging.Objects.Person, RaygunLogging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Debug: Adding items in repo
+2015-02-19 15:22:05,361 [1] ERROR RaygunLogging.Program System.InvalidCastException: Unable to cast object of type 'RaygunLogging.Objects.Employee' to type 'RaygunLogging.Objects.Person'.
+   at RaygunLogging.Program.Main(String[] args) in c:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\RaygunLogging\RaygunLogging\Program.cs:line 84
+2015-02-19 15:26:07,966 [1] DEBUG RaygunLogging.Program Log4Net Sample debug message
+2015-02-19 15:26:07,976 [1] INFO  RaygunLogging.Program Log4Net Sample informational message
+2015-02-19 15:26:07,980 [1] WARN  RaygunLogging.Program Log4Net Sample warning message
+2015-02-19 15:26:07,982 [1] ERROR RaygunLogging.Program Log4Net Sample error message
+2015-02-19 15:26:07,984 [1] FATAL RaygunLogging.Program Log4Net Sample fatal error message
+2015-02-19 15:26:08,054 [1] DEBUG RaygunLogging.Repository.Repository`1[[RaygunLogging.Objects.Person, RaygunLogging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Debug: Adding items in repo
+2015-02-19 15:34:10,495 [1] DEBUG RaygunLogging.Program Log4Net Sample debug message
+2015-02-19 15:34:10,516 [1] INFO  RaygunLogging.Program Log4Net Sample informational message
+2015-02-19 15:34:10,518 [1] WARN  RaygunLogging.Program Log4Net Sample warning message
+2015-02-19 15:34:10,521 [1] ERROR RaygunLogging.Program Log4Net Sample error message
+2015-02-19 15:34:10,523 [1] FATAL RaygunLogging.Program Log4Net Sample fatal error message
+2015-02-19 15:34:10,615 [1] DEBUG RaygunLogging.Repository.Repository`1[[RaygunLogging.Objects.Person, RaygunLogging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Debug: Adding items in repo
+2015-02-19 15:45:24,156 [1] DEBUG RaygunLogging.Program Log4Net Sample debug message
+2015-02-19 15:45:24,173 [1] INFO  RaygunLogging.Program Log4Net Sample informational message
+2015-02-19 15:45:24,177 [1] WARN  RaygunLogging.Program Log4Net Sample warning message
+2015-02-19 15:45:24,179 [1] ERROR RaygunLogging.Program Log4Net Sample error message
+2015-02-19 15:45:24,185 [1] FATAL RaygunLogging.Program Log4Net Sample fatal error message
+2015-02-19 15:45:27,906 [1] DEBUG RaygunLogging.Repository.Repository`1[[RaygunLogging.Objects.Person, RaygunLogging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Debug: Adding items in repo
+2015-02-19 15:48:26,978 [1] DEBUG RaygunLogging.Program Log4Net Sample debug message
+2015-02-19 15:48:26,991 [1] INFO  RaygunLogging.Program Log4Net Sample informational message
+2015-02-19 15:48:26,998 [1] WARN  RaygunLogging.Program Log4Net Sample warning message
+2015-02-19 15:48:27,002 [1] ERROR RaygunLogging.Program Log4Net Sample error message
+2015-02-19 15:48:27,006 [1] FATAL RaygunLogging.Program Log4Net Sample fatal error message
+2015-02-19 15:48:27,080 [1] DEBUG RaygunLogging.Repository.Repository`1[[RaygunLogging.Objects.Person, RaygunLogging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Debug: Adding items in repo
+2015-02-19 15:48:27,085 [1] INFO  RaygunLogging.Repository.Repository`1[[RaygunLogging.Objects.Person, RaygunLogging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Info: Getting items from repo
+2015-02-19 15:50:54,356 [1] DEBUG RaygunLogging.Program Log4Net Sample debug message
+2015-02-19 15:50:54,369 [1] INFO  RaygunLogging.Program Log4Net Sample informational message
+2015-02-19 15:50:54,373 [1] WARN  RaygunLogging.Program Log4Net Sample warning message
+2015-02-19 15:50:54,379 [1] ERROR RaygunLogging.Program Log4Net Sample error message
+2015-02-19 15:50:54,383 [1] FATAL RaygunLogging.Program Log4Net Sample fatal error message
+2015-02-19 15:50:54,460 [1] DEBUG RaygunLogging.Repository.Repository`1[[RaygunLogging.Objects.Person, RaygunLogging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Debug: Adding items in repo
+2015-02-19 15:50:54,466 [1] INFO  RaygunLogging.Repository.Repository`1[[RaygunLogging.Objects.Person, RaygunLogging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Info: Getting items from repo
+2015-02-19 16:08:31,885 [1] DEBUG RaygunLogging.Program Log4Net Sample debug message
+2015-02-19 16:08:31,898 [1] INFO  RaygunLogging.Program Log4Net Sample informational message
+2015-02-19 16:08:31,901 [1] WARN  RaygunLogging.Program Log4Net Sample warning message
+2015-02-19 16:08:31,909 [1] ERROR RaygunLogging.Program Log4Net Sample error message
+2015-02-19 16:08:31,913 [1] FATAL RaygunLogging.Program Log4Net Sample fatal error message
+2015-02-19 16:08:31,992 [1] DEBUG RaygunLogging.Repository.Repository`1[[RaygunLogging.Objects.Person, RaygunLogging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Debug: Adding items in repo
+2015-02-19 16:08:31,998 [1] INFO  RaygunLogging.Repository.Repository`1[[RaygunLogging.Objects.Person, RaygunLogging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Info: Getting items from repo
+2015-02-20 12:51:43,196 [8] DEBUG RaygunLogging.Program Log4Net Sample debug message
+2015-02-20 12:51:43,228 [8] INFO  RaygunLogging.Program Log4Net Sample informational message
+2015-02-20 12:51:43,231 [8] WARN  RaygunLogging.Program Log4Net Sample warning message
+2015-02-20 12:51:43,238 [8] ERROR RaygunLogging.Program Log4Net Sample error message
+2015-02-20 12:51:43,242 [8] FATAL RaygunLogging.Program Log4Net Sample fatal error message
+2015-02-20 12:51:43,320 [8] DEBUG RaygunLogging.Repository.Repository`1[[RaygunLogging.Objects.Person, RaygunLogging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Debug: Adding items in repo
+2015-02-20 12:51:43,343 [8] INFO  RaygunLogging.Repository.Repository`1[[RaygunLogging.Objects.Person, RaygunLogging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Info: Getting items from repo
+2015-02-20 12:55:45,433 [9] DEBUG RaygunLogging.Program Log4Net Sample debug message
+2015-02-20 12:55:45,464 [9] INFO  RaygunLogging.Program Log4Net Sample informational message
+2015-02-20 12:55:45,470 [9] WARN  RaygunLogging.Program Log4Net Sample warning message
+2015-02-20 12:55:45,476 [9] ERROR RaygunLogging.Program Log4Net Sample error message
+2015-02-20 12:55:45,480 [9] FATAL RaygunLogging.Program Log4Net Sample fatal error message
+2015-02-20 12:55:45,596 [9] DEBUG RaygunLogging.Repository.Repository`1[[RaygunLogging.Objects.Person, RaygunLogging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Debug: Adding items in repo
+2015-02-20 12:55:45,607 [9] INFO  RaygunLogging.Repository.Repository`1[[RaygunLogging.Objects.Person, RaygunLogging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Info: Getting items from repo
+2015-02-20 12:55:45,611 [9] WARN  RaygunLogging.Service.Service`1[[RaygunLogging.Objects.Person, RaygunLogging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Test warn message in service

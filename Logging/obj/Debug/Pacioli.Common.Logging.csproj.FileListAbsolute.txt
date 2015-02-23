@@ -1,0 +1,8 @@
+C:\Dev\pacioli\Src\Pacioli.Common.Logging\bin\Debug\Pacioli.Common.Logging.dll
+C:\Dev\pacioli\Src\Pacioli.Common.Logging\bin\Debug\Pacioli.Common.Logging.pdb
+C:\Dev\pacioli\Src\Pacioli.Common.Logging\bin\Debug\Mindscape.Raygun4Net.dll
+C:\Dev\pacioli\Src\Pacioli.Common.Logging\bin\Debug\NLog.dll
+C:\Dev\pacioli\Src\Pacioli.Common.Logging\bin\Debug\Mindscape.Raygun4Net.pdb
+C:\Dev\pacioli\Src\Pacioli.Common.Logging\bin\Debug\NLog.xml
+C:\Dev\pacioli\Src\Pacioli.Common.Logging\obj\Debug\Pacioli.Common.Logging.dll
+C:\Dev\pacioli\Src\Pacioli.Common.Logging\obj\Debug\Pacioli.Common.Logging.pdb

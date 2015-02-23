@@ -1,0 +1,6 @@
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\RaygunLogging\Logging\bin\Debug\Logging.dll
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\RaygunLogging\Logging\bin\Debug\Logging.pdb
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\RaygunLogging\Logging\bin\Debug\NLog.dll
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\RaygunLogging\Logging\bin\Debug\NLog.xml
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\RaygunLogging\Logging\obj\Debug\Logging.dll
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\RaygunLogging\Logging\obj\Debug\Logging.pdb

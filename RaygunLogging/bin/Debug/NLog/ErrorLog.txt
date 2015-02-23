@@ -1,0 +1,94 @@
+2015-02-19 15:17:19.5748|INFO|RaygunLogging.Program|Sample informational message
+2015-02-19 15:17:19.5979|WARN|RaygunLogging.Program|Sample warning message
+2015-02-19 15:17:19.5979|ERROR|RaygunLogging.Program|Sample error message
+2015-02-19 15:17:19.5979|FATAL|RaygunLogging.Program|Sample fatal error message
+2015-02-19 15:17:19.5979|INFO|RaygunLogging.Program|Sample informational message
+2015-02-19 15:18:12.2245|INFO|RaygunLogging.Program|Sample informational message
+2015-02-19 15:18:12.2376|WARN|RaygunLogging.Program|Sample warning message
+2015-02-19 15:18:12.2526|ERROR|RaygunLogging.Program|Sample error message
+2015-02-19 15:18:12.2526|FATAL|RaygunLogging.Program|Sample fatal error message
+2015-02-19 15:18:12.2666|INFO|RaygunLogging.Program|Sample informational message
+2015-02-19 15:19:37.8620|INFO|RaygunLogging.Program|NLog Sample informational message
+2015-02-19 15:19:37.8730|WARN|RaygunLogging.Program|NLog Sample warning message
+2015-02-19 15:19:37.8730|ERROR|RaygunLogging.Program|NLog Sample error message
+2015-02-19 15:19:37.8730|FATAL|RaygunLogging.Program|NLog Sample fatal error message
+2015-02-19 15:19:37.8730|INFO|RaygunLogging.Program|Sample informational message
+2015-02-19 15:21:16.7856|INFO|RaygunLogging.Program|NLog Sample informational message
+2015-02-19 15:21:16.7936|WARN|RaygunLogging.Program|NLog Sample warning message
+2015-02-19 15:21:16.7936|ERROR|RaygunLogging.Program|NLog Sample error message
+2015-02-19 15:21:16.7936|FATAL|RaygunLogging.Program|NLog Sample fatal error message
+2015-02-19 15:21:16.8267|INFO|RaygunLogging.Program|Sample informational message
+2015-02-19 15:22:05.2599|INFO|RaygunLogging.Program|NLog Sample informational message
+2015-02-19 15:22:05.2709|WARN|RaygunLogging.Program|NLog Sample warning message
+2015-02-19 15:22:05.2709|ERROR|RaygunLogging.Program|NLog Sample error message
+2015-02-19 15:22:05.2709|FATAL|RaygunLogging.Program|NLog Sample fatal error message
+2015-02-19 15:22:05.2959|INFO|RaygunLogging.Program|Sample informational message
+2015-02-19 15:22:05.3650|ERROR|RaygunLogging.Program|System.InvalidCastException: Unable to cast object of type 'RaygunLogging.Objects.Employee' to type 'RaygunLogging.Objects.Person'.
+   at RaygunLogging.Program.Main(String[] args) in c:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\RaygunLogging\RaygunLogging\Program.cs:line 84
+2015-02-19 15:26:07.9453|INFO|RaygunLogging.Program|NLog Sample informational message
+2015-02-19 15:26:07.9573|WARN|RaygunLogging.Program|NLog Sample warning message
+2015-02-19 15:26:07.9573|ERROR|RaygunLogging.Program|NLog Sample error message
+2015-02-19 15:26:07.9573|FATAL|RaygunLogging.Program|NLog Sample fatal error message
+2015-02-19 15:26:07.9863|INFO|RaygunLogging.Program|Sample informational message
+2015-02-19 15:26:07.9863|ERROR|RaygunLogging.Program|System.Exception: Test Exception
+   at RaygunLogging.Program.Main(String[] args) in c:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\RaygunLogging\RaygunLogging\Program.cs:line 79
+2015-02-19 15:26:08.0573|ERROR|RaygunLogging.Program|System.InvalidCastException: Unable to cast object of type 'RaygunLogging.Objects.Employee' to type 'RaygunLogging.Objects.Person'.
+   at RaygunLogging.Program.Main(String[] args) in c:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\RaygunLogging\RaygunLogging\Program.cs:line 95
+2015-02-19 15:26:08.0573|ERROR|RaygunLogging.Program|System.InvalidCastException: Unable to cast object of type 'RaygunLogging.Objects.Employee' to type 'RaygunLogging.Objects.Person'.
+   at RaygunLogging.Program.Main(String[] args) in c:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\RaygunLogging\RaygunLogging\Program.cs:line 100
+2015-02-19 15:39:42.0813|INFO|RaygunLogging.Program|NLog Sample informational message
+2015-02-19 15:39:42.0953|WARN|RaygunLogging.Program|NLog Sample warning message
+2015-02-19 15:39:42.0953|ERROR|RaygunLogging.Program|NLog Sample error message
+2015-02-19 15:45:13.6347|FATAL|RaygunLogging.Program|NLog Sample fatal error message
+2015-02-19 15:45:24.2081|INFO|RaygunLogging.Program|Sample informational message
+2015-02-19 15:45:24.2081|ERROR|RaygunLogging.Program|System.Exception: Test Exception
+   at RaygunLogging.Program.Main(String[] args) in c:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\RaygunLogging\RaygunLogging\Program.cs:line 78
+2015-02-19 15:45:27.9110|ERROR|RaygunLogging.Program|System.InvalidCastException: Unable to cast object of type 'RaygunLogging.Objects.Employee' to type 'RaygunLogging.Objects.Person'.
+   at RaygunLogging.Program.Main(String[] args) in c:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\RaygunLogging\RaygunLogging\Program.cs:line 94
+2015-02-19 15:48:26.9270|INFO|RaygunLogging.Program|NLog Sample informational message
+2015-02-19 15:48:26.9350|WARN|RaygunLogging.Program|NLog Sample warning message
+2015-02-19 15:48:26.9350|ERROR|RaygunLogging.Program|NLog Sample error message
+2015-02-19 15:48:26.9731|FATAL|RaygunLogging.Program|NLog Sample fatal error message
+2015-02-19 15:48:27.0091|INFO|RaygunLogging.Program|Sample informational message
+2015-02-19 15:48:27.0091|ERROR|RaygunLogging.Program|System.Exception: Test Exception
+   at RaygunLogging.Program.Main(String[] args) in c:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\RaygunLogging\RaygunLogging\Program.cs:line 78
+2015-02-19 15:48:27.0822|ERROR|RaygunLogging.Program|System.InvalidCastException: Unable to cast object of type 'RaygunLogging.Objects.Employee' to type 'RaygunLogging.Objects.Person'.
+   at RaygunLogging.Program.Main(String[] args) in c:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\RaygunLogging\RaygunLogging\Program.cs:line 94
+2015-02-19 15:50:54.3186|INFO|RaygunLogging.Program|NLog Sample informational message
+2015-02-19 15:50:54.3447|WARN|RaygunLogging.Program|NLog Sample warning message
+2015-02-19 15:50:54.3447|ERROR|RaygunLogging.Program|NLog Sample error message
+2015-02-19 15:50:54.3447|FATAL|RaygunLogging.Program|NLog Sample fatal error message
+2015-02-19 15:50:54.3887|INFO|RaygunLogging.Program|Sample informational message
+2015-02-19 15:50:54.3887|ERROR|RaygunLogging.Program|System.Exception: Test Exception
+   at RaygunLogging.Program.Main(String[] args) in c:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\RaygunLogging\RaygunLogging\Program.cs:line 78
+2015-02-19 15:50:54.4638|ERROR|RaygunLogging.Program|System.InvalidCastException: Unable to cast object of type 'RaygunLogging.Objects.Employee' to type 'RaygunLogging.Objects.Person'.
+   at RaygunLogging.Program.Main(String[] args) in c:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\RaygunLogging\RaygunLogging\Program.cs:line 94
+2015-02-19 15:51:38.5526|INFO|RaygunLogging.Program|NLog Sample informational message
+2015-02-19 16:00:32.6999|INFO|RaygunLogging.Program|NLog Sample informational message
+2015-02-19 16:08:31.8459|INFO|RaygunLogging.Program|NLog Sample informational message
+2015-02-19 16:08:31.8730|WARN|RaygunLogging.Program|NLog Sample warning message
+2015-02-19 16:08:31.8730|ERROR|RaygunLogging.Program|NLog Sample error message
+2015-02-19 16:08:31.8730|FATAL|RaygunLogging.Program|NLog Sample fatal error message
+2015-02-19 16:08:31.9160|INFO|RaygunLogging.Program|Sample informational message
+2015-02-19 16:08:31.9190|ERROR|RaygunLogging.Program|System.Exception: Test Exception
+   at RaygunLogging.Program.Main(String[] args) in c:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\RaygunLogging\RaygunLogging\Program.cs:line 78
+2015-02-19 16:08:31.9950|ERROR|RaygunLogging.Program|System.InvalidCastException: Unable to cast object of type 'RaygunLogging.Objects.Employee' to type 'RaygunLogging.Objects.Person'.
+   at RaygunLogging.Program.Main(String[] args) in c:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\RaygunLogging\RaygunLogging\Program.cs:line 94
+2015-02-20 12:51:43.1473|INFO|RaygunLogging.Program|NLog Sample informational message
+2015-02-20 12:51:43.1843|WARN|RaygunLogging.Program|NLog Sample warning message
+2015-02-20 12:51:43.1843|ERROR|RaygunLogging.Program|NLog Sample error message
+2015-02-20 12:51:43.1843|FATAL|RaygunLogging.Program|NLog Sample fatal error message
+2015-02-20 12:51:43.2453|INFO|RaygunLogging.Program|Sample informational message
+2015-02-20 12:51:43.2483|ERROR|RaygunLogging.Program|System.Exception: Test Exception
+   at RaygunLogging.Program.Main(String[] args) in c:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\RaygunLogging\RaygunLogging\Program.cs:line 78
+2015-02-20 12:51:43.3404|ERROR|RaygunLogging.Program|System.InvalidCastException: Unable to cast object of type 'RaygunLogging.Objects.Employee' to type 'RaygunLogging.Objects.Person'.
+   at RaygunLogging.Program.Main(String[] args) in c:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\RaygunLogging\RaygunLogging\Program.cs:line 94
+2015-02-20 12:55:45.3814|INFO|RaygunLogging.Program|NLog Sample informational message
+2015-02-20 12:55:45.4204|WARN|RaygunLogging.Program|NLog Sample warning message
+2015-02-20 12:55:45.4204|ERROR|RaygunLogging.Program|NLog Sample error message
+2015-02-20 12:55:45.4204|FATAL|RaygunLogging.Program|NLog Sample fatal error message
+2015-02-20 12:55:45.4855|INFO|RaygunLogging.Program|Sample informational message
+2015-02-20 12:55:45.5334|ERROR|RaygunLogging.Program|System.Exception: Test Exception
+   at RaygunLogging.Program.Main(String[] args) in c:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\RaygunLogging\RaygunLogging\Program.cs:line 77
+2015-02-20 12:55:45.6025|ERROR|RaygunLogging.Program|System.InvalidCastException: Unable to cast object of type 'RaygunLogging.Objects.Employee' to type 'RaygunLogging.Objects.Person'.
+   at RaygunLogging.Program.Main(String[] args) in c:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\RaygunLogging\RaygunLogging\Program.cs:line 93

@@ -1,0 +1,15 @@
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\RaygunLogging\UnitTests\bin\Debug\UnitTests.dll
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\RaygunLogging\UnitTests\bin\Debug\UnitTests.pdb
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\RaygunLogging\UnitTests\bin\Debug\Ninject.dll
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\RaygunLogging\UnitTests\bin\Debug\RaygunLogging.exe
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\RaygunLogging\UnitTests\bin\Debug\RaygunLogging.pdb
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\RaygunLogging\UnitTests\bin\Debug\Ninject.xml
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\RaygunLogging\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\RaygunLogging\UnitTests\obj\Debug\UnitTests.dll
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\RaygunLogging\UnitTests\obj\Debug\UnitTests.pdb
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\RaygunLogging\UnitTests\bin\Debug\log4net.dll
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\RaygunLogging\UnitTests\bin\Debug\log4net.xml
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\RaygunLogging\UnitTests\bin\Debug\UnitTests.dll.config
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\RaygunLogging\UnitTests\bin\Debug\NLog.config
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\RaygunLogging\UnitTests\bin\Debug\NLog.dll
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\RaygunLogging\UnitTests\bin\Debug\NLog.xml
